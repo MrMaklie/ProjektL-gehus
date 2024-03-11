@@ -1,7 +1,7 @@
 :root {
     --primary-color: #05E4BE;
     --secondary-color: #0C3458;
-    --accent-color: #4A2D7D;
+    --lilla-color: #4A2D7D;
     --white: #fff;
 }
 
@@ -13,8 +13,8 @@
     background-color: var(--secondary-color) !important;
 }
 
-.bg-accent-color {
-    background-color: var(--accent-color) !important;
+.bg-lilla-color {
+    background-color: var(--lilla-color) !important;
 }
 
 .bg-white-color {
@@ -29,8 +29,8 @@
     color: var(--secondary-color) !important;
 }
 
-.text-accent-color {
-    color: var(--accent-color) !important;
+.text-lilla-color {
+    color: var(--lilla-color) !important;
 }
 
 .text-white-color {
