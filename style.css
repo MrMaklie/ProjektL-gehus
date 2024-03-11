@@ -21,10 +21,6 @@
     background-color: var(--white) !important;
 }
 
-.navbar {
-    background-color: var(--primary-color) !important;
-}
-
 .txt-primary-color {
     color: var(--primary-color) !important;
 }
@@ -41,11 +37,21 @@
     color: var(--white) !important;
 }
 
+.navbar {
+    background-color: var(--primary-color) !important;
+}
+
 .navbar-expand-lg {
     flex-wrap: wrap;
     justify-content: center;
 }
 
+.nav-link{
+    border-bottom: 3px solid transparent;
+}
+.nav-link:hover{
+    border-bottom: 3px solid var(--secondary-color);
+}
 .navbar-nav .active-link {
     font-weight: bold;
 }
