@@ -76,7 +76,7 @@ section#contact-info {
     margin: 10px;
     padding: 8px 20px;
     background-color: var(--primary-color) !important;
-    color: var(--white) !important;
+    color: var(--secondary-color) !important;
     border-radius: 30px !important;
 }
 
